@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="340" viewBox="0 0 500 340" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="340" fill="#111" />
+  <circle cx="250" cy="160" r="104" fill="#222" />
+  <text x="250" y="186" text-anchor="middle" fill="#f5f5f5" font-family="Inter, system-ui, sans-serif" font-size="32">Danny</text>
+</svg>
